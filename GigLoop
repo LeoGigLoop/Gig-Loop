@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gig Loop</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 10px 15px;
+            text-align: center;
+        }
+        nav {
+            background: #444;
+            color: #fff;
+            display: flex;
+            justify-content: center;
+            padding: 10px 0;
+        }
+        nav a {
+            color: #fff;
+            margin: 0 15px;
+            text-decoration: none;
+            font-size: 1.2em;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        section {
+            padding: 20px;
+            max-width: 800px;
+            margin: 20px auto;
+            background: #f4f4f4;
+            border-radius: 5px;
+        }
+        footer {
+            background: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>!! NO NEED TO LOG IN OR REGISTER, PLAY AS GUEST !!</h1>
+</header>
+
+<nav>
+    <a href="#homepage">Home</a>
+    <a href="#play-with-us">Play With Us</a>
+    <a href="#terms">Terms</a>
+    <a href="#privacy-policy">Privacy</a>
+    <a href="#contact-us">Contact</a>
+</nav>
+
+<section id="homepage">
+    <h2>Homepage</h2>
+    <p>Reject Consumerism, Embrace Prosperity. Gold has been underground for BILLIONS of years and it’s about time that you got your share. At the end of today, you’ll be happy that you never ignored this because the average millionaire keeps 2% of their net worth in gold. Ask yourself, what is your net worth and are you keeping your 2% in gold?</p>
+    <p>Quickest way to get gold. Do it now then you won’t have to do it in the future.</p>
+    <p>Buy gold and play our viral game … <strong>PLAY WITH US</strong></p>
+    <p>… and you may be eligible for 1 Bitcoin * or 1 year’s mortgage* or 1 year’s salary*, your choice!</p>
+</section>
+
+<section id="play-with-us">
+    <h2>Play With Us</h2>
+    <p>Reject Consumerism, Embrace Prosperity.</p>
+    <p>Follow these steps to participate:</p>
+    <ol>
+        <li>In 77 seconds, get 7k USD daily / 1 new daily Bitcoin every day! Do 1 to 7 of this text.</li>
+        <li>SAVE THIS (from 1 to 7 ONLY) unedited with link.</li>
+        <li>SEND TO ALL CONTACTS to Facebook, SMS, social media, etc. Send to a minimum of 7 contacts daily.</li>
+        <li>Buy gold or metals for higher-tier prizes.</li>
+        <li>Submit proof to <a href="mailto:cnamiwhk@yahoo.com">cnamiwhk@yahoo.com</a>.</li>
+        <li>Repeat daily to maximize your chances of winning.</li>
+    </ol>
+</section>
+
+<section id="terms">
+    <h2>Terms and Conditions</h2>
+    <p>[Insert the provided Terms and Conditions verbatim here]</p>
+</section>
+
+<section id="privacy-policy">
+    <h2>Privacy Policy</h2>
+    <p>[Insert the provided Privacy Policy verbatim here]</p>
+</section>
+
+<section id="contact-us">
+    <h2>Contact Us</h2>
+    <p>Email: <a href="mailto:cnamiwhk@yahoo.com">cnamiwhk@yahoo.com</a></p>
+</section>
+
+<footer>
+    <p>© 2024 Gig Loop. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
